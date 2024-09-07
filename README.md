@@ -1,6 +1,6 @@
 # plantDetection
 
-RF FILE
+===============RF FILE===================
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
 # In[ ]:
 
-CNN FILE
+=============================CNN FILE===============================
 
 
 #!/usr/bin/env python
@@ -136,7 +136,7 @@ if __name__ == '__main__':
 
 
 
-MAIN FILE
+==============================MAIN FILE=====================================
 
 
 #!/usr/bin/env python
